@@ -1,0 +1,16 @@
+2024-07-01 19:03:43,575 INFO:There was no 1 key in dictionary. Returned 0
+2024-07-01 19:09:09,212 INFO:Successfully returned value in key. 1: hello
+2024-07-01 19:10:43,522 INFO:There was no hello key in dictionary. Returned 0
+2024-07-01 19:12:41,792 INFO:Successfully returned value in key. 1: hello
+2024-07-01 19:17:07,289 INFO:Dictionary provided: {1: 'hello'}
+2024-07-01 19:17:23,539 INFO:User input: 1
+2024-07-01 19:17:23,539 ERROR:Key 1 not found in dictionary. Returning default value None.
+2024-07-01 19:17:30,984 INFO:Dictionary provided: {1: 'hello'}
+2024-07-01 19:17:36,598 INFO:User input: 1
+2024-07-01 19:17:36,599 INFO:Successfully returned value from dictionary. 1: hello
+2024-07-01 19:17:39,626 INFO:Dictionary provided: {1: 'hello'}
+2024-07-01 19:17:48,894 WARNING:Input is not int or float. Defaulting to string.
+2024-07-01 19:18:23,654 INFO:Dictionary provided: {1: 'hello'}
+2024-07-01 19:18:31,414 WARNING:Input is not int or float. Defaulting to string.
+2024-07-01 19:18:31,414 INFO:User input: word
+2024-07-01 19:18:31,414 ERROR:Key word not found in dictionary. Returning default value None.

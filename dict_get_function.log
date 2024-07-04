@@ -1,0 +1,6 @@
+2024-07-04 14:13:49,608 INFO:Dictionary provided: {1: 'hello', 2: 'world', 'name': 'Alice', 3.5: 'float key'}
+2024-07-04 14:13:49,608 INFO:User input: name
+2024-07-04 14:13:49,608 INFO:Successfully returned value from dictionary. name: Alice
+2024-07-04 14:14:10,518 INFO:Dictionary provided: {1: 'hello', 2: 'world', 'name': 'Alice', 3.5: 'float key'}
+2024-07-04 14:14:10,518 INFO:User input: 5
+2024-07-04 14:14:10,518 ERROR:Key 5 not found in dictionary. Returning default value None.

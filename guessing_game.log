@@ -1,0 +1,53 @@
+2024-07-01 18:22:55,825 WARNING:Wrong type for input. Must be int.
+2024-07-01 18:22:59,646 WARNING:Wrong type for input. Must be int.
+2024-07-01 18:23:01,842 WARNING:Wrong type for input. Must be int.
+2024-07-01 18:23:04,709 DEBUG:User guessed 5. Tries left: 2
+2024-07-01 18:23:13,647 DEBUG:User guessed 3. Tries left: 1
+2024-07-01 18:23:15,604 DEBUG:User guessed 1. Tries left: 0
+2024-07-01 18:23:15,604 INFO:User couldn't guess 2
+2024-07-04 12:40:36,687 INFO:User input was successfully converted into int : 1
+2024-07-04 12:40:45,689 INFO:Invalid user input : a
+2024-07-04 12:40:53,237 INFO:Invalid user input : 1.2
+2024-07-04 12:41:02,028 INFO:User input was successfully converted into int : 9
+2024-07-04 12:41:06,163 INFO:User input was successfully converted into int : 3
+2024-07-04 12:41:17,271 DEBUG:User guessed 2. Tries left: 2
+2024-07-04 12:41:20,214 DEBUG:User guessed 8. Tries left: 1
+2024-07-04 12:41:21,807 INFO:User correctly guessed 9 and had 1 tries left
+2024-07-04 12:45:38,761 INFO:User input was successfully converted into int : 5
+2024-07-04 12:45:43,695 INFO:User input was successfully converted into int : 10
+2024-07-04 12:45:49,161 INFO:User input was successfully converted into int : 3
+2024-07-04 12:45:52,696 INFO:User correctly guessed 5 and had 3 tries left
+2024-07-04 12:47:01,072 INFO:User input was successfully converted into int : 5
+2024-07-04 12:47:06,874 INFO:User input was successfully converted into int : 7
+2024-07-04 12:47:20,246 INFO:User input was successfully converted into int : 2
+2024-07-04 12:47:22,949 INFO:User correctly guessed 6 and had 2 tries left
+2024-07-04 12:47:57,788 INFO:Invalid user input : a
+2024-07-04 12:49:30,325 INFO:User input was successfully converted into int : 12
+2024-07-04 12:49:37,227 INFO:User input was successfully converted into int : 16
+2024-07-04 12:49:39,898 INFO:User input was successfully converted into int : 3
+2024-07-04 12:49:42,748 INFO:User correctly guessed 15 and had 3 tries left
+2024-07-04 13:00:56,787 INFO:Invalid user input : hello
+2024-07-04 13:01:01,029 INFO:User input was successfully converted into int : 1
+2024-07-04 13:01:03,070 INFO:User input was successfully converted into int : 5
+2024-07-04 13:01:04,339 INFO:User input was successfully converted into int : 2
+2024-07-04 13:01:04,470 WARNING:Wrong type for input. Must be int.
+2024-07-04 13:01:21,399 INFO:User correctly guessed 4 and had 2 tries left
+2024-07-04 13:02:26,242 INFO:User input was successfully converted into int : 5
+2024-07-04 13:02:29,867 INFO:User input was successfully converted into int : 8
+2024-07-04 13:02:31,129 INFO:User input was successfully converted into int : 2
+2024-07-04 13:02:40,274 INFO:User correctly guessed 6 and had 2 tries left
+2024-07-04 13:06:57,406 INFO:User input was successfully converted into int : 1
+2024-07-04 13:06:59,807 INFO:User input was successfully converted into int : 3
+2024-07-04 13:07:01,341 INFO:User input was successfully converted into int : 2
+2024-07-04 13:07:03,560 INFO:User correctly guessed 2 and had 2 tries left
+2024-07-04 13:07:12,870 INFO:User input was successfully converted into int : 5
+2024-07-04 13:07:13,994 INFO:User input was successfully converted into int : 1
+2024-07-04 13:07:13,995 WARNING:Minimum number 5 is not less than maximum number 1
+2024-07-04 13:08:22,401 INFO:User input was successfully converted into int : 10
+2024-07-04 13:08:24,570 INFO:Invalid user input : 2\
+2024-07-04 13:08:26,697 INFO:User input was successfully converted into int : 2
+2024-07-04 13:08:26,697 WARNING:Minimum number 10 is not less than maximum number 2
+2024-07-04 13:08:52,932 INFO:User input was successfully converted into int : 2
+2024-07-04 13:08:54,166 INFO:User input was successfully converted into int : 5
+2024-07-04 13:08:55,318 INFO:User input was successfully converted into int : 1
+2024-07-04 13:08:57,715 INFO:User correctly guessed 5 and had 1 tries left
